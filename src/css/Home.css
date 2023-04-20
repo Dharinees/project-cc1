@@ -1,0 +1,52 @@
+
+*{
+ 
+}
+.container
+{ 
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  background: red;
+}
+.container1
+{
+  display: flex;
+  flex-direction: column;
+  margin-top: 143px;
+  padding: 5px;
+}
+.container2
+{
+    @media (min-width: 768px) {
+         {
+          width: 773px;
+        }
+      }
+
+        width: 100%;
+
+        height: 263px;
+ 
+        background-color: #d0525262;
+ 
+        color: 
+        #b46969;
+
+        border-radius: 30px;
+  
+        display: flex;
+
+        flex-direction: column;
+   
+        padding-left: 120px;
+        padding-right: 120px;
+    
+        padding-left: 25px;
+        padding-right: 25px;
+
+        padding-top: 23px;
+        padding-bottom: 23px;
+
+      
+}
